@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kora21
+- 👋 Hi, I’m Ekaterina 
 - 👀 I’m interested in hearing from you
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects
