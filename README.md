@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kora21
 - 👀 I’m interested in hearing from you
-- 🌱 I’m currently learning and I am a beginner 
+- 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me; just IM me here
 
