@@ -2,7 +2,7 @@
 - 👀 I’m learning something cool! 
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: Telegram - @ikatyat or send me an email to kattya.taras@gmail.com
+- 📫 How to reach me; kattya.taras@gmail.com
 
 <!---
 kora21/kora21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
