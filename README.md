@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ekaterina 
-- 👀 I’m interested in developing my coding skills
+- 👀 I’m interested in collaborating in projects
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Telegram - @ikatyat or send me an email to kattya.taras@gmail.com
