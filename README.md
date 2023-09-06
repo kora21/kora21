@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ekaterina 
+- 👋 Hi, I’m Ekaterina
+- <iframe src="https://giphy.com/embed/Uaxj062PavgqZRhVkS" width="480" height="314" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/sticker-kawaii-vibe-Uaxj062PavgqZRhVkS">via GIPHY</a></p>
 - 👀 I’m interested in collaborating in projects
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects
