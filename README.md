@@ -3,7 +3,7 @@
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects and I open source contributor
 - 📫 How to reach me; kattya.taras@gmail.com
-- :sparkles:https://kora21.github.io/Ekaterina/
+- :sparkles: Check out my page: https://kora21.github.io/Ekaterina/
 
 <!---
 kora21/kora21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
