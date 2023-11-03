@@ -2,7 +2,6 @@
 - 👀 I’m learning something cool! 
 - 🌱 I am Python developer 
 - 💞️ I’m looking to collaborate on projects and I open source contributor
-- 📫 How to reach me
 - :sparkles: Check out my page: https://kora21.github.io/Ekaterina/
 
 <!---
