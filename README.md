@@ -1,6 +1,6 @@
 Hi there 👋
 - 👋 I’m Ekaterina
-- 🌱 I am Python developer and Pandas Data Scientist
+- 🌱 Python developer and Pandas Data Scientist
 - 💞️ Looking to collaborate on projects
 
 <!---
