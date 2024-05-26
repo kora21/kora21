@@ -1,5 +1,5 @@
 Hi there 👋
-- 👋 Hi, I’m Ekaterina
+- 👋 I’m Ekaterina
 - 👀 I’m studying Data Science right now... Jupiter, Pandas, mathematics
 - 🌱 I am Python developer and Pandas Data Scientist
 - 💞️ Looking to collaborate on projects
